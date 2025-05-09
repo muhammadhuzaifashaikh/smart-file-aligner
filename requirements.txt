@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sentence-transformers
+transformers
+torch
+nltk
+python-multipart
+pymupdf
+python-docx
+pdfplumber
+python-pptx
